@@ -1,2 +1,2 @@
-# -Slack
+# ispolzivanie-Slack
 Использование Slack
